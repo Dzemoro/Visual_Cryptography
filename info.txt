@@ -1,0 +1,2 @@
+==Kryptografia Wizualna==
+W programie została zaimplementowana kryptografia wizualna w prostszej postaci polegającej na podzieleniu obrazu na dwa udziały. Jeśli oba udziały nałożymy na siebie to powstanie zaszumiony obraz wejściowy (w wybadku wybrania wesji prostokątnej otrzymamy rozciągnięty obraz). Zaimplementowano również możliwość odszumienia obrazu.
